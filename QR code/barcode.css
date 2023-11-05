@@ -1,0 +1,52 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;}
+
+
+  .main-body{
+    background-color: #d6e1f0;
+    width: 1250px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .card{
+    margin-top: 60px;
+    width:230px;
+    height: 350px;
+    background-color: white;
+    border-radius: 10px;
+  }
+
+ 
+  .qr-code{
+    width: 200px;
+    margin-left: 12px;
+    margin-top: 15px;
+    border-radius: 10px;
+
+  }
+
+.first-text{
+  padding-left:35px ;
+  color: #282626;
+  margin-top: 10px;
+  font-size: 15px;
+   font-weight: bold;
+  
+}
+
+.scan{
+ color: hsl(207, 4%, 45%);
+ font-size: 13px;
+ padding-top: 10px;
+ padding-left: 8px;
+
+}
+
+.last-text{
+  padding-left: 30%;
+}
+
